@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto+Slab&display=swap");
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-family: "Roboto Slab", serif !important;
+}
+
+p,
+li,
+a,
+label,
+button {
+    font-family: "Quicksand", sans-serif;
+    overflow-wrap: anywhere;
+}
+
+.jumbotron {
+    margin: 10px 25px;
+}
+
+.row {
+    width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+    .jumbotron {
+        margin: 50px 0;
+        padding: 1rem;
+    }
+
+    .jumbotron h1 {
+        text-align: center;
+        padding: 20px 0;
+    }
+
+    .jumbotron p {
+        padding: 0 20px;
+    }
+}
+
+.btn-primary {
+    background-color: #1f3860;
+    border-color: #1f3860;
+}
+
+.form-control,
+.btn-primary,
+.card,
+.jumbotron,
+.modal-content {
+    border-radius: 0;
+}
+
+.modal-body > .container {
+    margin: 0 !important;
+    padding: 0 15px !important;
+    max-width: 100% !important;
+}
+
+.pageLoader {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
