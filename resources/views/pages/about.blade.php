@@ -20,16 +20,37 @@
 
                                 <div class="col-md-8"><br><br><br><br><br>
                               
-                                Established in London in 2003, The British Education Group now incorporates a large number of educational establishments across the UK, UAE and Nepal, including The British College in Kathmandu -  and is continuing to expand. <br><br>
-
-                                Founded in 2011, The British College is now one of the most successful international Colleges in Nepal - offering British qualifications from three top UK universities: The University of the West of England, Leeds Beckett and Keele University. It is now also the only College in the country to have received the prestigious British Accreditation Council (BAC) accreditation and will shortly be expanding to a brand new purpose-built campus right in the heart of the city.  <br><br>
-
-                                So, following its enormous success The British Education Group (TBEG) was founded. TBEG is a network of schools and colleges across the UK, UAE and Nepal that offer premium education with British management, international qualifications and the best facilities possible to support the learning and personal development of students who have previously never had access to such opportunities. 
- <br><br>
-
- As a result the Group now has a host of educational establishments across Nepal, including  Motherland School in Chitwan and Namaste Academy in Rupandehi - as well as new land to open a school and college in Pokhara. Most recently TBEG has also opened The Westminster College - also located in Kathmandu, Westminster provides a range of more affordable degrees from a brand new campus in partnership with the University of Westminster in London, UK.  <br><br>
- However, it isn’t just Nepal where TBEG is thriving, as the Group also has The Woolwich College (TWC) in London and The Woolwich Institute (TWI) in Dubai, which we are currently expanding. TWI is a premium global institute located in the Knowledge Village Dubai and represents just the start of TBEG’s journey in the Middle East and across the globe. <br><br>
- So, watch this space as the British Education Group continues to bring the best British education to countries around the world and ‘Re-Think Education’ on a global scale. 
+                                The British Education Group (BEG), established in London in 2003, has evolved into a global network of schools and colleges spanning the UK, UAE, Canada, and Nepal. Led by experienced British professionals, BEG is dedicated to delivering world-class education and internationally recognised qualifications. 
+                                <br><br>
+                                With a steadfast commitment to academic excellence, BEG empowers students with the skills, knowledge, and credentials necessary to succeed in an increasingly interconnected and globalised world. 
+                                <br><br>
+                                BEG operates a range of prestigious institutions, including:
+                                <br>
+                                <strong>Colleges:</strong>
+                                <br>
+<a href="https://thewoolwichcollege.org.uk/" target="_blank"> The Woolwich College</a>, London
+<br>
+<a href="https://www.woolwich.ac.ae/" target="_blank">The Woolwich Institute</a>, Dubai
+<br>
+<a href="https://www.maritimebusinesscollege.ca/" target="_blank">Maritime Business College</a>, Canada
+<br>
+<a href="https://www.thebritishcollege.edu.np/" target="_blank">The British College</a>, Kathmandu
+<br>
+The British Model College
+<br>
+The British Professional College
+<br>
+<a href="https://www.thewestminstercollege.edu.np/" target="_blank">The Westminster College</a>
+<br>
+The British International College, Kathmandu
+<br>
+<a href="https://www.thebritishcollege.edu.np/bgs" target="_blank">The British College, Pokhara</a>
+<br><br>
+<strong>Schools:</strong>
+<br>
+<a href="https://www.britishgrammarschool.com/" target="_blank">British Grammar School, Rupandehi</a>
+<br>
+<a href="https://motherland.edu.np/" target="_blank">Motherland School, Chitwan</a>
 </p>
                                     
                                   

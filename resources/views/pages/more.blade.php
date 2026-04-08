@@ -91,7 +91,7 @@
                             <div class="padding60">
 								<div class="col-md-4">
 {{--                                    <img src="https://www.kandelgroup.co.uk/uploads/medias/twc-london-new.png" style="width: 200px; background:white;">--}}
-                                    <img src="{{asset('assets/images/westminster-college.png')}}" style="width: 200px; background:white;">
+                                    <img src="https://www.kandelgroup.co.uk/uploads/medias/twcnepal.png" style="width: 200px; background:white;">
                                 </div>
 
                                 <div class="col-md-8">
@@ -268,7 +268,7 @@
 
                                 <div class="col-md-8">
                                     <h3>Maritime Business College</h3>
-                                    <p>Founded in 1899, Maritime Business College has provided advanced career training to thousands of students in Nova Scotia. The instructors at Maritime Business College are trained and experienced experts in the industry. Insightful classroom instruction is complemented by practical training.</p>
+                                    <p>Founded in 1899, Maritime Business College has provided advanced career training to thousands of students in Halifax, Nova Scotia, Canada. The instructors at Maritime Business College are trained and experienced experts in the industry. Insightful classroom instruction is complemented by practical training.</p>
 
                                     <a href="https://www.maritimebusinesscollege.ca/about-us/" style="color: #00aeef;
                                     font-weight: 400;

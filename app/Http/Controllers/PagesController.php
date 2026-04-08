@@ -59,7 +59,11 @@ class PagesController extends Controller {
 
 	}
 
+	public function getApplyPage() {
 
+		return view('pages.apply');
+
+	}
 
 	public function getContact() {
 

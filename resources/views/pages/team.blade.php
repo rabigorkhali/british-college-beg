@@ -15,34 +15,27 @@
                     <p>Rajen Kandel</p>
                     <span>Managing Director</span>
                </div>
-               <div class="col-md-3">
+               <!-- <div class="col-md-3">
                     <img src="../images/team/mahendra.jpg" class="img-fluid" alt="">
                     <p>Mahendra Raj Kandel</p>
-                    <span>Executive Director, The Kandel Group</span>
-               </div>
+                    <span>Executive Director</span>
+               </div> -->
                <div class="col-md-3">
                     <img src="../images/team/mike.jpeg" class="img-fluid" alt="">
                     <p>Mike Griffiths</p>
-                    <span>Non-Executive Director, The Kandel Group</span>
+                    <span>Non-Executive Director</span>
                </div>
-               <div class="col-md-3">
+               <!-- <div class="col-md-3">
                     <img src="../images/team/MaryBishop.jpg" class="img-fluid" alt="">
                     <p>Mary Bishop</p>
-                    <span>Non-Executive Director, The Kandel Group</span>
-               </div>
-          </div>
-          <div class="row g-4 team">
-               <div class="col-md-3">
-                    <img src="../images/team/PaulCleves.jpg" class="img-fluid" alt="">
-                    <p>Paul Cleves</p>
-                    <span>Non-Executive Director, The Kandel Group</span>
-               </div>
+                    <span>Non-Executive Director</span>
+               </div> -->
           </div>
           <h3>Advisors</h3>
           <div class="row g-4 team">
                <div class="col-md-3">
-                    <img src="https://www.thebritishcollege.edu.np/uploads/teams/1475229914earl.jpg" class="img-fluid" alt="">
-                    <p>Earl of Sandwich</p>
+                    <img src="../images/team/PaulCleves.jpg" class="img-fluid" alt="">
+                    <p>Paul Cleves</p>
                </div>
                <div class="col-md-3">
                     <img src="https://www.thebritishcollege.edu.np/uploads/teams/1431318126Dr._Arjun.jpg" class="img-fluid" alt="">
@@ -60,36 +53,16 @@
                     <img src="https://www.thebritishcollege.edu.np/uploads/teams/1431318107chiran.jpg" class="img-fluid" alt="">
                     <p>Dr (H.C.) Chiran S. Thapa</p>
                </div>
+          </div>
+          <div class="row g-4 team">
                <div class="col-md-3">
                     <img src="https://www.thebritishcollege.edu.np/uploads/teams/1584089178B-and-M20Fergus20Lyon.jpg" class="img-fluid" alt="">
                     <p>Dr Fergus Lyon</p>
                </div>
-          </div>
-          <h3>Industry Advisory Board</h3>
-          <div class="row g-4 team">
                <div class="col-md-3">
-                    <img src="https://www.thebritishcollege.edu.np/uploads/teams/1616563253lUFwO6N.jpg" class="img-fluid" alt="">
-                    <p>Prof Tim Gocher OBE</p>
-               </div>
-               <div class="col-md-3">
-                    <img src="https://www.thebritishcollege.edu.np/uploads/teams/1616391894jity8gf.jpg" class="img-fluid" alt="">
-                    <p>Prachanda Man Shrestha</p>
-               </div>
-               <div class="col-md-3">
-                    <img src="https://www.thebritishcollege.edu.np/uploads/teams/16163944621516532111089.jpg" class="img-fluid" alt="">
-                    <p>Birendra Pandey</p>
-               </div>
-               <!-- <div class="col-md-3">
-                    <img src="https://www.thebritishcollege.edu.np/uploads/teams/PaulCleves.jpg" class="img-fluid" alt="">
-                    <p>Paul Cleves MBE</p>
-               </div> -->
-               <div class="col-md-3">
-                    <img src="https://www.thebritishcollege.edu.np/uploads/teams/1616394548kFNMH5d.jpg" class="img-fluid" alt="">
-                    <p>Gyanendra Lal Pradhan</p>
-               </div>
-               <div class="col-md-3">
-                    <img src="https://www.thebritishcollege.edu.np/uploads/teams/16163946467ZWX2qD.jpg" class="img-fluid" alt="">
-                    <p>Aashmi Rana</p>
+                    <img src="../images/team/john-park.jpg" class="img-fluid" alt="">
+                    <p>John B. Park</p>
+                    <span>IT Advisor</span>
                </div>
           </div>
         </div>

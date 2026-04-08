@@ -34,6 +34,8 @@ Route::group(['middleware' => ['web']], function () {
     
     Route::get('/about', [PagesController::class, 'getAbout']);
     Route::get('/team', [PagesController::class, 'getTeam']);
+    Route::get('/apply', [PagesController::class, 'getApplyPage']);
+
     //Route::get('/courses/{slug}', [PagesController::class, 'getCourse']);
     //Route::view('/news', 'pages.news');
     //Route::view('/blog', 'pages.blog');
