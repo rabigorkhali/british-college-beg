@@ -212,14 +212,11 @@
                     Apply for A-Levels in <span class="city-kathmandu"
                         style="color: rgb(245, 143, 143);">Kathmandu</span>
                 </h1>
-                <p class="hero-copy mb-6 text-white text-base md:text-lg leading-relaxed max-w-xl">
-                    Applications are open for September 2026 intake.
-
-                </p>
+               
                 <div class="flex flex-col sm:flex-row gap-4">
                     <a href="https://www.britishmodelcollege.edu.np/apply-now" target="_blank" rel="noopener noreferrer"
                         class="action-btn btn-blue p-4 font-bold rounded-lg transition-all hover:translate-y-[-2px] hover:shadow-[0_24px_48px_rgba(0,10,63,0.2)]">
-                        <span>Enrol Now</span>
+                        <span>Apply Now</span>
                         <span class="btn-icon" aria-hidden="true"><i class="fa-solid fa-arrow-right"></i></span>
                     </a>
 
@@ -247,14 +244,12 @@
                     style="line-height: 1.3;">
                     Apply for A-Levels in <span class="city-pokhara" style="color: rgb(147 159 247);">Pokhara</span>
                 </h1>
-                <p class="hero-copy mb-6 text-white text-base md:text-lg leading-relaxed max-w-xl">
-                    Applications are open for September 2026 intake.
-                </p>
+                
 
                 <div class="flex flex-col sm:flex-row gap-4">
                     <a href="https://www.cosmos.edu.np/apply-now" target="_blank" rel="noopener noreferrer"
                         class="action-btn btn-red p-4 font-bold rounded-lg transition-all hover:translate-y-[-2px] hover:shadow-[0_24px_48px_rgba(43,3,0,0.2)]">
-                        <span>Enrol Now</span>
+                        <span>Apply Now</span>
                         <span class="btn-icon" aria-hidden="true"><i class="fa-solid fa-arrow-right"></i></span>
                     </a>
 
